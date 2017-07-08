@@ -1,4 +1,4 @@
-# GPA_Calculator#
+# GPA_Calculator
 
 
 ## 1.更改Database路径 ##
